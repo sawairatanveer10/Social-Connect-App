@@ -204,4 +204,4 @@ You are free to fork and modify it for personal use or learning.
 
 **👩‍💻 Developer:** *Sawaira Tanveer*  
 📧 **Email:** [sawairatanveer10@gmail.com]  
-🌐 **GitHub:*https://github.com/sawairatanveer10/Social-Connect-App.git* 
+🌐 **GitHub:**https://github.com/sawairatanveer10/Social-Connect-App.git
