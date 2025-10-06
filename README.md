@@ -49,9 +49,8 @@ It is optimized for smooth navigation, responsive UI, and real-time updates.
   - Home
   - Profile
   - Explore
-  - Notifications
-  - Settings
-
+  - Create Post
+    
 ### 💫 UI & UX
 - Minimal and consistent design using Ionic  
 - Fixed header padding (no overlap with mobile status bar)  
@@ -93,7 +92,7 @@ Everything works locally, so you can **develop and test without any paid Firebas
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/social-connect.git
+git clone https://github.com/sawairatanveer10/Social-Connect-App.git
 cd social-connect
 ```
 
@@ -185,14 +184,6 @@ ionic capacitor run ios
 
 ---
 
-## 🎥 Submission Requirements (Internship)
-
-- **Video Demo:** Short video showing key app features  
-- **GitHub Repo:** Public repository with complete source code  
-
-
----
-
 ## 👨‍💻 Contributing
 
 1. Fork this repo  
@@ -213,4 +204,4 @@ You are free to fork and modify it for personal use or learning.
 
 **👩‍💻 Developer:** *Sawaira Tanveer*  
 📧 **Email:** [sawairatanveer10@gmail.com]  
-🌐 **GitHub:** 
+🌐 **GitHub:*https://github.com/sawairatanveer10/Social-Connect-App.git* 
